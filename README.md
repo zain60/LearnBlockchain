@@ -79,6 +79,14 @@ So, the process involves users initiating transactions, miners creating blocks t
   
  - ## Block:
     A block is like a container or package that stores a collection  transactions. In a blockchain, these blocks are linked together in a chronological sequence to form a "chain."
+
+   ****Each Block consist of a Block-Number, Nounce, Transaction Hash and  Previous Block Hash****  
+     - ### Block-Number
+       Block Numbere is just the number of blocks a blockhcian Have
+     - ### Nounce
+        A "block nonce" is a number used in the mining process of Proof of Work (PoW) blockchains. Miners attempt to find a valid block nonce that, when combined with other block data,         results in a hash that meets specific criteria. Example  criteria could be (block trx hash should be started with 2 zeros)
+
+
   
   
 
