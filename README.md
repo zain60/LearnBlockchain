@@ -41,7 +41,7 @@ In blockchain We store Data in form of **Transaction**,
 How transations are added in blockchain?
 lets say user A  sends a transaction , 
 transaction will go to **unconfirmed  transaction pool**,
-where **Miners** pic the transaction and then  mine the transaction and then **validaters** will validate it 
+where **Miners** pick the transaction from Pool  and then  mine the transaction and then **validaters** will validate it 
 and then it will be added to blockchian.
   
   
