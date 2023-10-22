@@ -10,9 +10,9 @@ Welcome to Web3Logic course  on Blockchain technology! This comprehensive course
 ## Basics of Web Evolution:
 - ## what was [web 1.0]
  The Web 1.0 era, spanning from 1991 to 2004, primarily involved web developers hosting static and personal web pages on the internet. During this period, users were limited to passive consumption, as they could only access and read the content of websites, lacking the capability to interact with them. So all and all it was  a one way medium of infformation.
- -Static pages.
- -only Creator/ developers can share content
- -users can only read the content
+ -- Static pages.
+ -- only Creator/ developers can share content
+ -- users can only read the content
 
 - ## what is  [web 2.0]
 
