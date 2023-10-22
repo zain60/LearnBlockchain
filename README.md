@@ -61,6 +61,19 @@ Before we dive into the nitty-gritty details, let's start with a high-level over
    - Once a consensus is reached, the new block is added to the blockchain, and User A's transaction is now confirmed and becomes a permanent part of the blockchain's history.
 
 So, the process involves users initiating transactions, miners creating blocks that include these transactions, validators checking the validity of these blocks, and a consensus mechanism to ensure agreement before a new block is added to the blockchain. This process helps maintain the security and integrity of the blockchain ledger.
+
+
+## Details OF HOW Blockchain Works
+   Do visit [link](https://blockchaindemo.org/)! to see practical demo of blockchain Working!
+- ## Cryptography
+  cryptography in blockchain is the use of mathematical techniques to secure and verify transactions, protect data, and maintain the integrity of the blockchain. It involves encryption, digital signatures, and hash functions to ensure that data is confidential, authentic, and tamper-proof. This is crucial for the security and trustworthiness of the blockchain network.
+- ## Hash / SHA256
+    - SHA-256 is a one-way mathematical function that takes an input and produces a fixed-length OutPut, which is typically 64 hexadecimal digits or 256 bits.
+    it is ireversible
+    - A small change in the input data results in a significantly different hash value.
+    - same input will always give same outPut
+    - SHA-256 is used to create a unique "fingerprint" (hash) for each block. This hash is generated based on the block's data and the previous block's hash. Any change in the block's 
+      data would alter its SHA-256 hash, making it easy to detect tampering or fraud.
   
   
   
