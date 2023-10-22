@@ -1,6 +1,6 @@
 # Blockchian Course
 <p align="center">
-    <img width="200" src="https://github.com/zain60/LearnBlockchain/blob/main/BlockChain_Banner-2.jpg" alt="Material Bread logo">
+    <img src="https://github.com/zain60/LearnBlockchain/blob/main/BlockChain_Banner-2.jpg" alt="Material Bread logo">
 </p>
 
 ## Table of Contents
