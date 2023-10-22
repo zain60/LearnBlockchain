@@ -1,37 +1,34 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- - [Blockchian Basics](#Blockchian_Basics)
-
+- -  [Course Overview](#Course Overview)
 
 
 ## Introduction
-
 Welcome to Web3Logic course  on Blockchain technology! This comprehensive course is designed to help you master the fundamental concepts, practical applications, and real-world implications of blockchain.
 
-## Course Overview:
-
+-  ## Course Overview:
 What is Blockchain? We'll start with the basics, demystifying blockchain technology and how it works.
-### Smart Contracts and DApps:
+- ### Smart Contracts and DApps:
       Dive into the world of smart contracts and decentralized applications (DApps).
-### Hands-on Learning:
+- ### Hands-on Learning:
      Get hands-on experience through coding exercises and projects.
-### Real-world Insights:
+- ### Real-world Insights:
     Explore the latest trends, industry applications, and blockchain's impact on various sectors.
-### Who Is This Course For?
+- ### Who Is This Course For?
 
 -Aspiring blockchain developers and enthusiasts.
 -Entrepreneurs and businesses looking to harness blockchain's potential.
 -Anyone curious about the technology behind cryptocurrencies and its broader applications.
 
-### What You'll Learn:
+- ### What You'll Learn:
 
 -Gain a solid understanding of blockchain technology from the ground up.
 -Explore the inner workings of smart contracts and DApps.
 -Develop practical skills through coding exercises and real-world projects.
 -Stay updated with the latest trends and real-world blockchain applications.
 
-## How to Use This Repository:
+- ## How to Use This Repository:
 
 .Each section of this repository corresponds to a module in the course.
 .Navigate through the topics and exercises at your own pace.
