@@ -1,9 +1,9 @@
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Basics of Web Evolution](#BasicsofWebEvolution)
-- -[what was [web 1.0]]
-- -[what is [web 2.0]]
+- [Introduction](#Course Introduction)
+- [Basics of Web Evolution](#Basics of Web Evolution)
+- -[what was [web 1.0]](#what was [web 1.0])
+- -[what is [web 2.0]](#what is [web 2.0])
 
 
 ## Course Introduction
