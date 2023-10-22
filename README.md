@@ -33,6 +33,10 @@ Web 3.0 or simply Web3, is the next evolution of the World Wide Web, following W
 - secure
 - read+write
 
+# How Blockchian Started
+Blockchain technology began with the release of Bitcoin's white paper by Satoshi Nakamoto in ***2008***, outlining a decentralized, cryptographic, peer-to-peer transaction system. This marked the origin of blockchain technology.
+Bitcoin was the first Protocol to use Blockchain Technology.Some people Saw this and thought that we can do more using this technology,So **Vitalik Buterin** introduced **Ethereum** in 2015, building on blockchain technology. Ethereum allowed for decentralized applications, organizations, smart contracts, and agreements without intermediaries. This idea, incorporating smart contracts, originated from Nick Szabo's 1994 concept.So After launch of Etherum Blckchian SkyRoketed as  Ethereum played a significant role in the proliferation and popularization of blockchain technology, especially in the context of smart contracts and decentralized applications (DApps)
+
 # How Blockchian Works
 Before we dive into the nitty-gritty details, let's start with a high-level overview of how blockchain works. This will give you a foundation to understand the finer points. Once we have that covered, we'll go deeper into each component step by step.
 #### overview Of How Blockchin works
