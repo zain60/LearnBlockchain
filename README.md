@@ -16,9 +16,9 @@ Welcome to Web3Logic course  on Blockchain technology! This comprehensive course
 
 - ## what was web 1.0 (Static web)
   
-- In Web 1.0, the internet mainly featured static web pages with minimal user interaction.
-- Information was provided by a single source, and users had no involvement in content creation or interaction.
-- It was a centralized system where one entity controlled the content, and users relied on this entity for information.
+-- In Web 1.0, the internet mainly featured static web pages with minimal user interaction.
+-- Information was provided by a single source, and users had no involvement in content creation or interaction.
+-- It was a centralized system where one entity controlled the content, and users relied on this entity for information.
   
 
 - ## what is  Web 2.0 (The Social Web):
