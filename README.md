@@ -65,7 +65,7 @@ So, the process involves users initiating transactions, miners creating blocks t
 
 ## Details OF HOW Blockchain Works
     
-   Do visit [link](https://blockchaindemo.org/)! to see practical demo of blockchain Working!
+   Do visit [link](https://blockchaindemo.org/)! to see practical demo of blockchain Working! <br>
    Lets first Understand a few important concepts :
 - ## Cryptography
   cryptography in blockchain is the use of mathematical techniques to secure and verify transactions, protect data, and maintain the integrity of the blockchain. It involves encryption, digital signatures, and hash functions to ensure that data is confidential, authentic, and tamper-proof. This is crucial for the security and trustworthiness of the blockchain network.
@@ -90,34 +90,30 @@ So, the process involves users initiating transactions, miners creating blocks t
      An Ethereum address is a 40-character hexadecimal string that uniquely identifies a user account  on the Ethereum network. It's used for sending and receiving Ether and tokens,        interacting with decentralized applications, and executing smart contract functions. Addresses are derived from public keys and are permanent and immutable once created. They are 
      represented in a human-readable format with a checksum for accuracy.
 - ## Wallet:
-      A "wallet" in the context of cryptocurrencies like Bitcoin and Ethereum is a digital tool or application that allows users to store, manage, and interact with their        
-      cryptocurrency holdings. Here's a brief overview:
-       -  wallet stores a user's public and private keys.
-       -   Public keys are used to receive funds, while
+    A "wallet" in the context of cryptocurrencies like Bitcoin and Ethereum is a digital tool or application that allows users to store, manage, and interact with their        
+    cryptocurrency holdings. Here's a brief overview:
+       -    wallet stores a user's public and private keys.
+       -    Public keys are used to receive funds, while
        -    private keys are used to access and spend those funds
        -    Wallets are designed with various security features to protect the user's private keys, ensuring that only the owner can access their cryptocurrency.
+    <br>
    **Types**:
-       - **Hot Wallets**: These are online wallets connected to the internet and are convenient for frequent transactions but may be less secure.
-       - **Cold Wallets**: These are offline wallets, like hardware or paper wallets, which offer enhanced security but are less convenient for quick transactions.
-       - **Mobile Wallets**: Wallet applications designed for smartphones, providing easy access and convenience.
-       - **Desktop Wallets**: Wallet software installed on a computer, offering more control and security compared to mobile wallets.
-       - **Web Wallets**: Online wallets accessible via a web browser, convenient for accessibility but potentially less secure.
+  
+     -**Hot Wallets** : These are online wallets connected to the internet and are convenient for frequent transactions but may be less secure.
+     - **Cold Wallets**: These are offline wallets, like hardware or paper wallets, which offer enhanced security but are less convenient for quick transactions.
+     - **Mobile Wallets**: Wallet applications designed for smartphones, providing easy access and convenience.
+     - **Desktop Wallets**: Wallet software installed on a computer, offering more control and security compared to mobile wallets.
+     - **Web Wallets**: Online wallets accessible via a web browser, convenient for accessibility but potentially less secure.
   
 
        
  
      
- 
+# Complete example IN Detail How trx will be added in Blockchian?
 
-
-
-
-   - ## Complete example IN Detail How trx will be added in Blockchian?
-      let's walk through an example of how a transaction is added to the Ethereum blockchain:
-
-     1. **User A's Transaction Request**:
+let's walk through an example of how a transaction is added to the Ethereum blockchain:
+    1. **User A's Transaction Request**:
           - Imagine User A wants to send 1 Ether to User B. User A uses their Ethereum wallet and initiates a transaction.
-
     2. **Creating the Transaction**:
       - User A's Ethereum wallet software creates a transaction with specific details:
      - Sender's address (User A's wallet address).
@@ -126,29 +122,27 @@ So, the process involves users initiating transactions, miners creating blocks t
      - The transaction nonce (a unique number for User A).
      - Gas limit (the maximum computational work that can be done for this transaction).
      - Gas price (the price User A is willing to pay for computational work).
+   3. **Broadcasting the Transaction**:
+     - User A's wallet broadcasts the transaction to the Ethereum network, and it enters the pool of unconfirmed transactions.
+   4. **Miner Inclusion**:
+     - Ethereum miners, who compete to solve complex mathematical puzzles (Proof of Work), select transactions from the pool to include in the next block.
+     - Miners prioritize transactions based on the gas price offered (higher gas price transactions are typically processed first).
 
-3. **Broadcasting the Transaction**:
-   - User A's wallet broadcasts the transaction to the Ethereum network, and it enters the pool of unconfirmed transactions.
+   5. **Block Creation**:
+      - A miner successfully mines a new block. This block contains a set of transactions, including User A's transaction.
 
-4. **Miner Inclusion**:
-   - Ethereum miners, who compete to solve complex mathematical puzzles (Proof of Work), select transactions from the pool to include in the next block.
-   - Miners prioritize transactions based on the gas price offered (higher gas price transactions are typically processed first).
+   6. **Validating the Block**:
+      - The newly mined block, including User A's transaction, is broadcast to the network.
+      - All Ethereum nodes (validators) validate the transactions within the block to ensure they are legitimate and follow the rules of the Ethereum protocol.
 
-5. **Block Creation**:
-   - A miner successfully mines a new block. This block contains a set of transactions, including User A's transaction.
+   8. **Consensus Mechanism**:
+      - Ethereum nodes reach consensus to agree that the block is valid. The consensus mechanism in Ethereum (before transitioning to Ethereum 2.0's Proof of Stake) is Proof of Work.
 
-6. **Validating the Block**:
-   - The newly mined block, including User A's transaction, is broadcast to the network.
-   - All Ethereum nodes (validators) validate the transactions within the block to ensure they are legitimate and follow the rules of the Ethereum protocol.
-
-7. **Consensus Mechanism**:
-   - Ethereum nodes reach consensus to agree that the block is valid. The consensus mechanism in Ethereum (before transitioning to Ethereum 2.0's Proof of Stake) is Proof of Work.
-
-8. **Adding to the Blockchain**:
-   - Once consensus is reached, the new block is added to the Ethereum blockchain. User A's transaction is now confirmed and becomes a permanent part of the blockchain.
-
-9. **Balance Update**:
-   - User B's Ethereum wallet balance is updated to reflect the receipt of 1 Ether.
+   9. **Adding to the Blockchain**:
+      - Once consensus is reached, the new block is added to the Ethereum blockchain. User A's transaction is now confirmed and becomes a permanent part of the blockchain.
+   
+   10. **Balance Update**:
+       - User B's Ethereum wallet balance is updated to reflect the receipt of 1 Ether.
 
 This example demonstrates how a transaction from User A is initiated, processed, and added to the Ethereum blockchain. It involves the creation of a transaction, miner selection, validation, consensus, and ultimately, the addition of the transaction to the blockchain. Once confirmed, the transaction cannot be altered, and User B's balance is updated accordingly.
 
