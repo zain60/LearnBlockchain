@@ -17,6 +17,12 @@ Welcome to Web3Logic course  on Blockchain technology! This comprehensive course
 - ## what is  [web 2.0]
 
 Following 2004, the evolution of the web ushered in an era where not only creators but also users gained the ability to share their content on various social platforms. A prime example is Facebook, where users have the capacity to create their own posts and engage with content by liking, disliking, commenting, and sharing posts from others within their network.
+- Dynamic websites
+- user can Read + Write the content
+
+- ## what is  [web 3.0]
+  
+  
 
 
 
