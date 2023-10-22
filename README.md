@@ -33,6 +33,16 @@ Web 3.0 or simply Web3, is the next evolution of the World Wide Web, following W
 - secure
 - read+write
 
+# How Blockchian Works
+Before we dive into the nitty-gritty details, let's start with a high-level overview of how blockchain works. This will give you a foundation to understand the finer points. Once we have that covered, we'll go deeper into each component step by step.
+#### overview Of How Blockchin works
+
+In blockchain We store Data in form of **Transaction**,
+How transations are added in blockchain?
+lets say user A  sends a transaction , 
+transaction will go to **unconfirmed  transaction pool**,
+where **Miners** pic the transaction and then  mine the transaction and then **validaters** will validate it 
+and then it will be added to blockchian.
   
   
   
