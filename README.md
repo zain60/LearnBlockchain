@@ -1,5 +1,7 @@
 # Blockchian Course
+<p align="center">
 ![BDR header](https://github.com/zain60/LearnBlockchain/blob/main/BlockChain_Banner-2.jpg)
+</p>
 
 ## Table of Contents
 
