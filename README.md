@@ -70,11 +70,15 @@ So, the process involves users initiating transactions, miners creating blocks t
 - ## Hash / SHA256
     - SHA-256 is a one-way mathematical function that takes an input and produces a fixed-length OutPut, which is typically 64 hexadecimal digits or 256 bits.
     it is ireversible
-    - A small change in the input data results in a significantly different hash value.
-    - same input will always give same outPut
+    - Same input will always give same outPut but small change in the input data results in a significantly different hash value.
     - SHA-256 is used to create a unique "fingerprint" (hash) for each block. This hash is generated based on the block's data and the previous block's hash. Any change in the block's 
       data would alter its SHA-256 hash, making it easy to detect tampering or fraud.
+
+- ## what are  Transactions
+    These are records of actions or data that users want to add to the blockchain. For example, a transaction might involve transferring digital coins from one user to another.
   
+ - ## Block:
+    A block is like a container or package that stores a collection  transactions. In a blockchain, these blocks are linked together in a chronological sequence to form a "chain."
   
   
 
