@@ -36,7 +36,7 @@ Web 3.0 or simply Web3, is the next evolution of the World Wide Web, following W
 # How Blockchian Works
 Before we dive into the nitty-gritty details, let's start with a high-level overview of how blockchain works. This will give you a foundation to understand the finer points. Once we have that covered, we'll go deeper into each component step by step.
 #### overview Of How Blockchin works
-
+***Basically Blockchain Stores Data in form of Transactions, Lets see How a trnsaction works:***
 
 1. **Initiating a Transaction**:
    - The process begins when a user, let's say User A, initiates a transaction. This transaction could involve sending cryptocurrency, recording data, or executing a smart contract.
