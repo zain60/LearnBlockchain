@@ -14,20 +14,20 @@ Welcome to Web3Logic course  on Blockchain technology! This comprehensive course
 
 ## Basics of Web Evolution:
 
-- ## what was web 1.0 (Static web)
+ ## what was web 1.0 (Static web)
   
--- In Web 1.0, the internet mainly featured static web pages with minimal user interaction.
--- Information was provided by a single source, and users had no involvement in content creation or interaction.
--- It was a centralized system where one entity controlled the content, and users relied on this entity for information.
+- In Web 1.0, the internet mainly featured static web pages with minimal user interaction.
+- Information was provided by a single source, and users had no involvement in content creation or interaction.
+-  It was a centralized system where one entity controlled the content, and users relied on this entity for information.
   
 
-- ## what is  Web 2.0 (The Social Web):
+ ## what is  Web 2.0 (The Social Web):
 
-Web 2.0 introduced dynamic, interactive websites where users could engage through comments, sharing, and content creation.
-Social media platforms emerged, fostering user-generated content and collaboration.
-While it enhanced user interaction, it remained centralized, with control held by organizations or individuals.
+- Web 2.0 introduced dynamic, interactive websites where users could engage through comments, sharing, and content creation.
+- Social media platforms emerged, fostering user-generated content and collaboration.
+- While it enhanced user interaction, it remained centralized, with control held by organizations or individuals.
 
-- ## what is  web 3.0 (decenterlized web)
+ ## what is  web 3.0 (decenterlized web)
   
 - Web3.0 strives for decentralization by leveraging technologies like blockchain and peer-to-peer networks.
 - It emphasizes trustless systems through smart contracts, reducing the need for intermediaries.
