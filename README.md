@@ -78,34 +78,38 @@ So, the process involves users initiating transactions, miners creating blocks t
 
 - ## what are  Transactions
     These are records of actions or data that users want to add to the blockchain. For example, a transaction might involve transferring digital coins from one user to another.
-  
- - ## Block:
+- ## Block:
     A block is like a container or package that stores a collection  transactions. In a blockchain, these blocks are linked together in a chronological sequence to form a "chain."
-
      - ****Each Block consist of a Block-Number, Nounce, Transaction Hash and  Previous Block Hash****  
      - ### Block-Number
        Block Numbere is just the number of blocks a blockhcian Have
      - ### Nounce
         A "block nonce" is a number used in the mining process of Proof of Work (PoW) blockchains. Miners attempt to find a valid block nonce that, when combined with other block 
          data, results in a hash that meets specific criteria. Example  criteria could be (block trx hash should be started with 2 zeros)
-       
-   - ## Address:
+- ## Address:
      An Ethereum address is a 40-character hexadecimal string that uniquely identifies a user account  on the Ethereum network. It's used for sending and receiving Ether and tokens,        interacting with decentralized applications, and executing smart contract functions. Addresses are derived from public keys and are permanent and immutable once created. They are 
      represented in a human-readable format with a checksum for accuracy.
-     
-   - ## Wallet:
-      A "wallet" in the context of cryptocurrencies like Bitcoin and Ethereum is a digital tool or application that allows users to store, manage, and interact with their cryptocurrency holdings. Here's a brief overview:
+- ## Wallet:
+      A "wallet" in the context of cryptocurrencies like Bitcoin and Ethereum is a digital tool or application that allows users to store, manage, and interact with their        
+      cryptocurrency holdings. Here's a brief overview:
        -  wallet stores a user's public and private keys.
        -   Public keys are used to receive funds, while
        -    private keys are used to access and spend those funds
        -    Wallets are designed with various security features to protect the user's private keys, ensuring that only the owner can access their cryptocurrency.
+   **Types**:
+       - **Hot Wallets**: These are online wallets connected to the internet and are convenient for frequent transactions but may be less secure.
+       - **Cold Wallets**: These are offline wallets, like hardware or paper wallets, which offer enhanced security but are less convenient for quick transactions.
+       - **Mobile Wallets**: Wallet applications designed for smartphones, providing easy access and convenience.
+       - **Desktop Wallets**: Wallet software installed on a computer, offering more control and security compared to mobile wallets.
+       - **Web Wallets**: Online wallets accessible via a web browser, convenient for accessibility but potentially less secure.
+  
 
-    4. **Types**:
-   - **Hot Wallets**: These are online wallets connected to the internet and are convenient for frequent transactions but may be less secure.
-   - **Cold Wallets**: These are offline wallets, like hardware or paper wallets, which offer enhanced security but are less convenient for quick transactions.
-   - **Mobile Wallets**: Wallet applications designed for smartphones, providing easy access and convenience.
-   - **Desktop Wallets**: Wallet software installed on a computer, offering more control and security compared to mobile wallets.
-   - **Web Wallets**: Online wallets accessible via a web browser, convenient for accessibility but potentially less secure.
+       
+ 
+     
+ 
+
+
 
 
    - ## Complete example IN Detail How trx will be added in Blockchian?
