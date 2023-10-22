@@ -97,23 +97,23 @@ So, the process involves users initiating transactions, miners creating blocks t
        -    private keys are used to access and spend those funds
        -    Wallets are designed with various security features to protect the user's private keys, ensuring that only the owner can access their cryptocurrency.
     <br>
-   **Types**:
+    <br>
+       - **Types**:
   
-     -**Hot Wallets** : These are online wallets connected to the internet and are convenient for frequent transactions but may be less secure.
-     - **Cold Wallets**: These are offline wallets, like hardware or paper wallets, which offer enhanced security but are less convenient for quick transactions.
-     - **Mobile Wallets**: Wallet applications designed for smartphones, providing easy access and convenience.
-     - **Desktop Wallets**: Wallet software installed on a computer, offering more control and security compared to mobile wallets.
-     - **Web Wallets**: Online wallets accessible via a web browser, convenient for accessibility but potentially less secure.
+         -**Hot Wallets** : These are online wallets connected to the internet and are convenient for frequent transactions but may be less secure.
+         - **Cold Wallets**: These are offline wallets, like hardware or paper wallets, which offer enhanced security but are less convenient for quick transactions.
+         - **Mobile Wallets**: Wallet applications designed for smartphones, providing easy access and convenience.
+         - **Desktop Wallets**: Wallet software installed on a computer, offering more control and security compared to mobile wallets.
+         - **Web Wallets**: Online wallets accessible via a web browser, convenient for accessibility but potentially less secure.
   
 
        
+ # Complete example IN Detail How trx will be added in Blockchian?
  
-     
-# Complete example IN Detail How trx will be added in Blockchian?
-
 let's walk through an example of how a transaction is added to the Ethereum blockchain:
-    1. **User A's Transaction Request**:
-          - Imagine User A wants to send 1 Ether to User B. User A uses their Ethereum wallet and initiates a transaction.
+
+   1.**User A's Transaction Request**:
+       - Imagine User A wants to send 1 Ether to User B. User A uses their Ethereum wallet and initiates a transaction.
     2. **Creating the Transaction**:
       - User A's Ethereum wallet software creates a transaction with specific details:
      - Sender's address (User A's wallet address).
