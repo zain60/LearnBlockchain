@@ -10,7 +10,7 @@
 
 
 ## Course Introduction
-Welcome to Web3Logic course  on Blockchain technology! This comprehensive course is designed to help you master the fundamental concepts, practical applications, and real-world implications of blockchain. It will Help you pass the interview related Questions to blockChain. 
+Welcome to Web3Logic course  on Blockchain technology! This comprehensive course is designed to help you master the fundamental concepts, practical applications, and real-world implications of blockchain. Our goal is to equip you with the knowledge and skills necessary to excel in interviews and discussions related to blockchain.
 
 ## Basics of Web Evolution:
 
@@ -38,6 +38,9 @@ Welcome to Web3Logic course  on Blockchain technology! This comprehensive course
 
 In essence, Web 1.0 was static and one-way, Web 2.0 added user interaction within a centralized framework, and Web3.0 is pioneering a decentralized, trustless system where users have full control over their data and assets, with no central authority dictating the rules.
 
+
+# Overview Of How Blockchain Technology Works
+Before we dive into the nitty-gritty details, let's start with a high-level overview of how blockchain works. This will give you a foundation to understand the finer points. Once we have that covered, we'll go deeper into each component step by step
 
 
 
